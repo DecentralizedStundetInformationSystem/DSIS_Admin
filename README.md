@@ -28,7 +28,6 @@ The DSIS Admin Application relies on the following libraries and dependencies:
 4. Build the project using the Gradle build command: 
 ```
     gradle build
-
 ```
 5. Run the application using the Gradle run command:
 ```
